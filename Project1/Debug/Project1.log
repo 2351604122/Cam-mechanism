@@ -1,0 +1,4 @@
+﻿  源.c
+c:\users\pc\source\repos\project1\project1\源.c(332): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\pc\source\repos\project1\project1\源.c(102): warning C4715: “functions”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\pc\source\repos\Project1\Debug\Project1.exe
